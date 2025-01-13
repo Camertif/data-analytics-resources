@@ -5,7 +5,7 @@ A resource center for articles, books, videos, and tools to support continuous l
 
 [Using ChatGPT-4o for Data Analysis](https://youtu.be/U3UhtGYmfBw?si=9mQ4JAqYcEknrwuj)
 
-[Freecodecamp Data Analyst Bootcamp](https://www.youtube.com/watch?v=PSNXoAs2FtQ)
+[Free Code Camp Data Analyst Bootcamp](https://www.youtube.com/watch?v=PSNXoAs2FtQ)
 
 [How to Make Learning as Addictive as Social Media - TED talk](https://www.youtube.com/watch?v=P6FORpg0KVo&t=2s)
 
