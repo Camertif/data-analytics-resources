@@ -83,7 +83,7 @@ A resource center for articles, books, videos, and tools to support continuous l
 
 [Code Wars](https://www.codewars.com/kata/search/my-languages?q=&tags=SQL&beta=false&order_by=sort_date%20desc) - SQL Practice questions (and Competition if you like)
 
-[SQLZoo] (https://sqlzoo.net/wiki/SQL_Tutorial) - SQL: quizzes, dictionary, understanding
+[SQLZoo] (https://sqlzoo.net/wiki/SQL_Tutorial)  SQL: quizzes, dictionary, understanding
 
 ## Courses 
 
